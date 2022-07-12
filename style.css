@@ -79,4 +79,45 @@ body {
   padding: 10px 10px;
 }
 
+.banner {
+  height: 700px;
+  max-width: 1200px;
+  margin: 30px auto auto;
+  padding: 85px;
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1na3efv*_ga*MzI2MDIzMDczOS4xNjU3MjMwMzky*_ga_3LRZM6TM9L*MTY1NzMxMjc0Mi40LjEuMTY1NzMxMjc0NC41OA..");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box-container {
+  /* height: 200px;
+    max-width: auto; */
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* padding: 50px; */
+}
 
+.box {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  height: 225px;
+  width: 225px;
+  margin: 10px;
+  padding: 5px 15px 25px 15px;
+  background-color: black;
+  opacity: 0.88;
+}
+
+.footer{
+    height: 200px;
+    margin: 0;
+
+}
+
+.copyright{
+    display: flex;
+    /* text-align: left; */
+    margin: 20px;
+}
