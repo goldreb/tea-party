@@ -1,3 +1,8 @@
+/* * {
+    box-sizing: border-box;
+} */
+
+
 body {
   background-color: black;
   font-family: "Helvetica";
@@ -16,6 +21,7 @@ body {
   position: fix;
   top: 0px;
   border-bottom: 1px solid seashell;
+  /* padding: 0 30px ; */
 }
 
 .logo {

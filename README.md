@@ -1,4 +1,5 @@
 # Project Tea party
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -11,14 +12,13 @@
 
 ## Overview
 
-
+    A codecademy project. Learning about HTML CSS and Flexbox.
 
 ### The challenge
 
-
 ## Work in action
 
-![]()
+![Tea Party](images/Project-Tea-Party.gif)
 
 ## Link
 
@@ -30,7 +30,7 @@
 
 ### What I learn
 
-
+Learning about Flexbox
 
 ## Author
 
